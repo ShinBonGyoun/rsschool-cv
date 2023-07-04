@@ -1,1 +1,1 @@
-https://shinbongyoun.github.io/rsschool-cv/cv
+https://shinbongyoun.github.io/rsschool-cv/
