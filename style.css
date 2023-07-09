@@ -1,0 +1,122 @@
+body {
+  background-color: azure;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  box-shadow: 10px 5px 5px grey;
+  }
+
+.menu {
+  display: flex;
+  justify-content:space-evenly;
+  padding: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: black;
+}
+
+.menu-item:hover {
+color: gray;
+font-weight: bolder;
+}
+
+.photo {
+display: flex;
+justify-content: center;
+}
+
+img {
+width: 300px;
+text-align: center;
+}
+
+.heading {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  }
+  
+.contacts {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  }
+
+hr {
+border: 3px solid grey;
+width: 50%;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-me {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.par {
+  align-self: center;
+  width: 600px;
+}
+
+.skills {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.edu {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.examcode {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+code {
+  display: flex;
+  justify-content: center;
+}
+
+.realcode {
+  background-color: gray;
+  width: 200px;
+}
+
+.lang {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.github {
+width: 30px;
+}
+
+.rss {
+width: 70px;
+}
+
+.footer {
+display: flex;
+justify-content: space-evenly;
+margin-top: 20px;
+}
